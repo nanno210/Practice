@@ -1,4 +1,4 @@
 <?php
-echo "practice ver1";
+echo "practice ver2";
 ?>
 
